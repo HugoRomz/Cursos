@@ -11,17 +11,15 @@ ONE (Oracle Next Education) es un programa de formación intensiva en tecnologí
 ## Estructura del Repositorio
 
 El repositorio está organizado de la siguiente manera:
-
-- `/Modulo1`: Contiene todos los archivos y proyectos del primer módulo del curso.
-- `/Modulo2`: Contiene todos los archivos y proyectos del segundo módulo del curso.
-- `/Modulo3`: Contiene todos los archivos y proyectos del tercer módulo del curso.
-- `/ProyectosFinales`: Contiene los proyectos finales y principales que he desarrollado durante el programa.
+- `Lógica de programación`
+- `/Sumérgete en la programación con JavaScript`: Contiene todos los archivos y proyectos del primer módulo del curso.
+- `/Explorar funciones y listas`: Contiene todos los archivos y proyectos del segundo módulo del curso.
+- `/ProyectosoChallenges`: Contiene los proyectos y challenges principales que he desarrollado durante el programa.
 
 Cada módulo incluye carpetas con el contenido específico del curso, tales como:
 
 - **Ejercicios**: Archivos de código fuente de los ejercicios realizados.
-- **Proyectos**: Proyectos de mayor envergadura realizados durante el curso.
-- **Materiales**: Documentación, apuntes y otros materiales de estudio.
+- **Desafios**: Proyectos de mayor envergadura realizados durante el curso.
 
 ---
 
